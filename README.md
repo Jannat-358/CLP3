@@ -4,7 +4,9 @@ Problem:
 Given a target integer T and a fixed list length k, evolve a list of k numbers (0–9) sum of the first two numbers equals the target T.
 
 Case#1Input:
+
 T = 7
+
 k = 3
 
 Case#1Output:
@@ -13,7 +15,9 @@ Case#1Output:
 
 
 Case#2Input:
+
 T = 10
+
 k = 3
 
 Case#2Output:
