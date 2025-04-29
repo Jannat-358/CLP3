@@ -5,23 +5,28 @@ Given a target integer T and a fixed list length k, evolve a list of k numbers (
 
 Case#1Input:
 
-T = 7
+  T = 7
 
-k = 3
+  k = 3
+
 
 Case#1Output:
-4 3 0
+
+
+  4 3 0
 
 
 
 Case#2Input:
 
-T = 10
+  T = 10
 
-k = 3
+   k = 3
 
 Case#2Output:
-8 2 0
+
+
+  8 2 0
 
 
 Output :
